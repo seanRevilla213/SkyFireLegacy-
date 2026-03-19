@@ -38,4 +38,4 @@ GPL
 
 
 # Disclaimer
-I'll change everything in this code so if the requirements to play this game the version of python 2.7 so ill change it into the latest version 3.14.3 Python and i add more features to this game, Menu and  Credit Scene nad i add the boss Etc.  
+I'll change everything in this code so if the requirements to play this game the version of python 2.7 so ill change it into the latest version 3.14.3 Python and i add more features to this game, Menu and  Credit Scene and i add the boss Etc.  
