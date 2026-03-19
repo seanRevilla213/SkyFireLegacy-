@@ -1,4 +1,4 @@
-# PythonShootGame
+# SkyFire-Legacy
 
 A simple shoot game written in Python.
 
@@ -18,6 +18,9 @@ This project only include two simple .py files:
   
 ```bash
 $ python mainGame.py
+$ pip install Pillow
+$ py -m pip install pygame
+$ python -m pip show pygame 
 ```
 
 # License
@@ -31,3 +34,8 @@ GPL
 
 # Doc
 [使用Pygame制作微信打飞机游戏PC版](https://www.cnblogs.com/dukeleo/p/3339780.html) (a Chinese startup)
+
+
+
+# Disclaimer
+I'll change everything in this code so if the requirements to play this game the version of python 2.7 so ill change it into the latest version 3.14.3 Python and i add more features to this game, Menu and  Credit Scene nad i add the boss Etc.  
